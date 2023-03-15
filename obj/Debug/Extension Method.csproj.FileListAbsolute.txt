@@ -1,0 +1,7 @@
+D:\Разработка\C#\Extension Method\bin\Debug\Extension_Method.exe
+D:\Разработка\C#\Extension Method\bin\Debug\Extension_Method.pdb
+D:\Разработка\C#\Extension Method\obj\Debug\Extension Method.csproj.AssemblyReference.cache
+D:\Разработка\C#\Extension Method\obj\Debug\Extension Method.csproj.SuggestedBindingRedirects.cache
+D:\Разработка\C#\Extension Method\obj\Debug\Extension Method.csproj.CoreCompileInputs.cache
+D:\Разработка\C#\Extension Method\obj\Debug\Extension_Method.exe
+D:\Разработка\C#\Extension Method\obj\Debug\Extension_Method.pdb
